@@ -15,12 +15,11 @@ No machine learning libraries are used.
 ---
 
 ## Repository Structure
-
-/
+```
 ├── README.md  
 ├── 01_part1_linreg_1feature.ipynb  
 └── 02_part2_polyreg.ipynb  
-
+```
 ---
 
 ## Datasets
